@@ -1,0 +1,6 @@
+Import Json:
+C:\Users\HP\Desktop\ImperativeFinancialApp\testFiles\transactions.json
+Import Csv:
+C:\Users\HP\Desktop\ImperativeFinancialApp\testFiles\transactions.csv
+Export:
+C:\Users\HP\Desktop\ImperativeFinancialApp\export
